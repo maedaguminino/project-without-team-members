@@ -8,6 +8,7 @@ const Home: NextPage = () => {
     <div>
       Pro Plan チームメンバー招待なしのプロジェクト
       <p>commit 1</p>
+      <p>commit 2</p>
     </div>
   )
 }
